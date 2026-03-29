@@ -54,3 +54,13 @@ obj2 = Mango()
 
 # Function calls
 func(obj1)
+func(obj2)
+```
+
+## Output:
+
+<img width="375" height="234" alt="image" src="https://github.com/user-attachments/assets/7b3a91d4-5bc8-40b9-a536-8cfc98455ee6" />
+
+## Result:
+
+Thus, the Python program demonstrating polymorphism using different classes with the same method names was successfully executed and verified.
